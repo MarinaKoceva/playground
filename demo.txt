@@ -1,1 +1,1 @@
-Line from main
+This is the resolved version after merge conflict
