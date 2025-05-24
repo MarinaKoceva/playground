@@ -1,2 +1,1 @@
-This is a different change in main
 This is a conflicting change from conflict-v2
